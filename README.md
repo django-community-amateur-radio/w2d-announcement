@@ -16,6 +16,12 @@ This event is not sponsored or organized by the Django Software Foundation as an
 
 # More Details
 
+#### When will the event take place?
+
+W2D is assigned from Saturday, July 12th through Saturday, July 26th. Many events start at the UTC date change, so Friday evening US time things could start.
+
+When we operate will depend on each individual's availability, but we expect to be evening and weekend heavy.
+
 #### What's a Special Event Station?
 
 Amateur Radio operators are issued "call signs" or a series of numbers and letters that uniquely identify them (much as I remember the station ID WGBH from PBS-produced videos in my childhood)
@@ -24,6 +30,10 @@ The FCC also allows operators to reserve "special event call signs" which are tw
 
 Special Events give radio operators a "reason" to either activate for others to find them, or to search out the activators.
 
+#### How can I find an activator?
+
+PSKreporter is a good start as FT8/FT4 is definitely planned, but regular spotting networks could be helpful for any voice or morse code operating.
+
 #### Will there be a certificate?
 
 Yes, it will be possible to get a W2D commemmorative certificate afterward.
@@ -31,6 +41,16 @@ Yes, it will be possible to get a W2D commemmorative certificate afterward.
 #### Can SWLs participate?
 
 SWLs (short-wave listeners, those who enjoy listening but either aren't licensed amateurs to transmit, or choose not to) can ask for a certificate as well if they wish. Give us a short log of what you're hearing, the UTC time/date and frequency and we'll confirm your reception of our signals as long as they compare with our logs.
+
+#### How is Django used in Amateur Radio?
+
+The site [DXHeat](https://www.dxheat.com) is powered by Django [reference](https://dh1tw.de/dxheat-com-is-online/).
+
+If you know of others, please let us know about them to update the list!
+
+#### What is Amateur Radio?
+
+It's easier to say it's not like being a DJ of your own music station, but aside from that you can choose your own adventure whether that be "chasing DX" (trying to make contact with distant countries), communicating locally with friends and family, experimenting with building your own equipment, or many other sub-hobbies. The American Radio Relay League can provide more info https://www.arrl.org/what-is-ham-radio
 
 #### I'd like to get licensed
 
