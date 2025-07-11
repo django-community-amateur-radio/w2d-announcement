@@ -32,7 +32,7 @@ Special Events give radio operators a "reason" to either activate for others to 
 
 #### How can I find an activator?
 
-PSKreporter is a good start as FT8/FT4 is definitely planned, but regular spotting networks could be helpful for any voice or morse code operating.
+[PSKreporter](https://pskreporter.info/pskmap?callsign=W2D&search=Find) is a good start as FT8/FT4 is definitely planned, but [Reverse Beacon Network](https://www.reversebeacon.net/main.php?rows=100&max_age=10,hours&spotted_call=W2D&hide=distance_km) regular spotting networks could be helpful for any voice or morse code operating (for instance, the Django Powered [DXHeat](https://dxheat.com/db/W2D/))
 
 #### Will there be a certificate?
 
