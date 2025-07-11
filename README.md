@@ -42,6 +42,8 @@ Yes, it will be possible to get a W2D commemmorative certificate afterward.
 
 SWLs (short-wave listeners, those who enjoy listening but either aren't licensed amateurs to transmit, or choose not to) can ask for a certificate as well if they wish. Give us a short log of what you're hearing, the UTC time/date and frequency and we'll confirm your reception of our signals as long as they compare with our logs.
 
+One could use a Web SDR to monitor without needing a receiver or antenna [as mentioned here](https://wsjtx.groups.io/g/main/topic/websdr_for_wsjtx/79502964).
+
 #### How is Django used in Amateur Radio?
 
 The site [DXHeat](https://www.dxheat.com) is powered by Django [reference](https://dh1tw.de/dxheat-com-is-online/).
